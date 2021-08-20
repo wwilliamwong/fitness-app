@@ -1,6 +1,6 @@
 ## fitness-app
 
-This is the frontend to the fullstack fitness app.  
+fullstack fitness app
 
 
 ![Screen Shot 2021-08-10 at 12 10 57](https://user-images.githubusercontent.com/67185854/128807257-35ca5719-4897-4183-bd31-cbd119378a1a.png)
